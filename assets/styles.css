@@ -33,7 +33,7 @@ div {
   margin: 1em 0; /* Vertical space */
 }
 
-img {
+img:not(a img) {
   width: 100%; /* Responsive */
 }
 
