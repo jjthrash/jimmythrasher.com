@@ -3,33 +3,23 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Bio, Jimmy Thrasher</title>
+  <title>{{ page.title }}, {{ site.title }}</title>
   <link rel="stylesheet" href="assets/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
   <div id="container">
-    <h1>Bio, Jimmy Thrasher</h1>
+    <h1>Jimmy Thrasher</h1>
     <div id="links">
       <a href="/">Main</a>
-      <a>Bio</a>
+      <a href="bio.html">Bio</a>
       <a class="external" href="https://www.instagram.com/jimmythrasher/">
         Instagram<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>
       <a class="external" href="https://kaizen.place/jimmythrasher/getting-it-down-64eb5f8ec37c5fc947e24824">
         Organic Recordings<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>
     </div>
-    <div>
-      Jimmy Thrasher is a deep thinker who writes deep songs that remain
-      accessible. His music is honest and authentic, with thoughtful lyrics
-      supported by guitar work that is complex and musical. With his deep love
-      for learning, Jimmy&rsquo;s songs draw from wildly different (and sometimes
-      obscure) topics&mdash;but always with the common thread of everyone&rsquo;s shared
-      humanity and value.
-    </div>
-    <div>
-      <img src="images/2024-03-09 Jimmy Huron.jpg" />
-    </div>
+    {{ content }}
   </div>
 </body>
 
