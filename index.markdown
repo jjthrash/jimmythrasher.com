@@ -31,7 +31,7 @@ title: Home
 
 <hr>
 <h2>Contact</h2>
-<div>For all inquires contact <a href="mailto:jimmy@jimmythrasher.com">jimmy&commat;jimmythrasher&period;com</a></div>
+<div>For all inquiries contact <a href="mailto:jimmy@jimmythrasher.com">jimmy&commat;jimmythrasher&period;com</a></div>
 
 <hr>
 <h2>Social Media</h2>
