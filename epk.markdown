@@ -14,16 +14,8 @@ title: Electronic Press Kit
 <hr>
 <h2>Bio</h2>
 <h3>Medium</h3>
-<div>
-  <p>Jimmy Thrasher is a deep thinker who writes deep songs that remain
-  accessible. His music is honest and authentic, with thoughtful lyrics
-  supported by guitar work that is complex and musical. With his deep love
-  for learning, Jimmy&rsquo;s songs draw from wildly different (and sometimes
-  obscure) topics&mdash;but always with the common thread of everyone&rsquo;s shared
-  humanity and value.</p>
+{% include bio_med.md %}
 
-  <p>For fans of Brian Eno, Leo Kottke, and Cat Stevens.</p>
-</div>
 <h3>Short</h3>
 <div>
 TBD
@@ -31,7 +23,7 @@ TBD
 
 <hr>
 <h2>Contact</h2>
-<div>For all inquires contact <a href="mailto:jimmy@jimmythrasher.com">jimmy&commat;jimmythrasher&period;com</a></div>
+{% include contact.md %}
 
 <hr>
 <h2>Social Media</h2>
