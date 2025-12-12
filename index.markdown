@@ -7,7 +7,7 @@ title: Home
 
 <hr>
 <h2>Upcoming Shows</h2>
-<div>December 7, 2025, 9PM—{% include external_link.md href="https://maps.app.goo.gl/jur1YE8K8ViijBdU7" text="The Cave" %} in Chapel Hill</div>
+<div>March 18, 2026, 7PM—{% include external_link.md href="https://maps.app.goo.gl/6tCrdbwouc7mmuGBA" text="Speakeasy" %} in Carrboro</div>
 
 <hr>
 <h2>Listen</h2>
