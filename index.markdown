@@ -7,7 +7,7 @@ title: Home
 
 <hr>
 <h2>Upcoming Shows</h2>
-<div>March 18, 2026, 7PM—{% include external_link.md href="https://maps.app.goo.gl/6tCrdbwouc7mmuGBA" text="Speakeasy" %} in Carrboro (flyer: <a href="images/2026-04-08 Speakeasy flyer square.png">square</a>, <a href="images/2026-04-08 Speakeasy flyer nonsquare.png">nonsquare</a>)</div>
+<div>March 18, 2026, 7PM—{% include external_link.md href="https://maps.app.goo.gl/6tCrdbwouc7mmuGBA" text="Speakeasy" %} in Carrboro, with Adriana Walsh and Remona Jeannine (flyer: <a href="images/2026-04-08 Speakeasy flyer square.png">square</a>, <a href="images/2026-04-08 Speakeasy flyer nonsquare.png">nonsquare</a>)</div>
 
 <hr>
 <h2>Listen</h2>
