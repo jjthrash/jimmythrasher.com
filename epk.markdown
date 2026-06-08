@@ -18,7 +18,8 @@ title: Electronic Press Kit
 
 <h3>Short</h3>
 <div>
-TBD
+<p>Jimmy Thrasher likes philosophy, relationship, and guitar. Through his
+music, he explores the theme of everyone&rsquo;s shared humanity.</p>
 </div>
 
 <hr>
